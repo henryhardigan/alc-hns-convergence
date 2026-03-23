@@ -1,0 +1,5 @@
+comparison	receptor_ca_rmsd_A	partner_ca_rmsd_A	aligned_partner_positions
+hetero_A_to_homo_A__partner_to_homo_B	1.786	4.991	28
+hetero_A_to_homo_B__partner_to_homo_A	1.786	4.993	28
+partner_shape_best_fit_only		3.440	28
+combined_state_rmsd_after_receptor_superposition		3.723	57
