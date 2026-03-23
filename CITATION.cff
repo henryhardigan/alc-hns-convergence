@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Unusually specific convergence of bacteriophage T4 Alc on the E. coli/Shigella H-NS dimerization-site-2 state"
+message: "If you use this repository, please cite the manuscript PDF and associated Zenodo record."
+authors:
+  - family-names: "Hardigan"
+    given-names: "Henry L."
+preferred-citation:
+  type: report
+  title: "Unusually specific convergence of bacteriophage T4 Alc on the E. coli/Shigella H-NS dimerization-site-2 state"
+  authors:
+    - family-names: "Hardigan"
+      given-names: "Henry L."
